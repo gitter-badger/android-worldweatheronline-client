@@ -1,6 +1,8 @@
 android-worldweatheronline-client
 =================================
 
+[![Join the chat at https://gitter.im/47deg/android-worldweatheronline-client](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/47deg/android-worldweatheronline-client?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Android client library to the [world weather online service](http://www.worldweatheronline.com/free-weather-feed.aspx)
 
 # Introduction
